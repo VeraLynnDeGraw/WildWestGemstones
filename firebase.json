@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "wild-west-gemstones-10011",
+    "public": ".",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**", "*.zip", "README.md"]
+  }
+}
